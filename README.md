@@ -1,4 +1,4 @@
-# Freedom-IPTV-with-OPNsense
+# Freedom-IPTV-with-OPNsense (bartschermer)
 ### How I configured my OPNsense firewall to enable Canal Digitaal IPTV via Freedom internet (Netherlands)
    
 
